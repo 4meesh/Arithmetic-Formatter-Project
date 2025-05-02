@@ -1,2 +1,31 @@
-# Arithmetic-Formatter-Project
-The Arithmetic Formatter is a Python project that formats arithmetic problems vertically and side-by-side. It's designed to help elementary school students practice arithmetic operations by presenting problems in a clear, organized format.
+# 🧮 Arithmetic Formatter
+
+A Python tool that formats arithmetic problems vertically and side-by-side, designed to help elementary students practice addition and subtraction.
+
+---
+
+## ✨ Example Output
+
+> _(Example: Replace this section with an actual screenshot or code block of your output)_
+
+
+---
+
+## 🔧 Features
+
+- 📐 Formats arithmetic problems vertically and side-by-side  
+- ➕➖ Supports **addition** and **subtraction** only  
+- ✔️ Validates input for:
+  - Correct operators
+  - Digit limits (≤ 4 digits)
+  - Problem count (≤ 5 problems)
+- 🔢 Optionally displays solutions
+- ❌ Provides clear error messages for invalid input
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/arithmetic-formatter.git
+cd arithmetic-formatter

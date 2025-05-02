@@ -6,7 +6,9 @@ A Python tool that formats arithmetic problems vertically and side-by-side, desi
 
 ## ✨ Example Output
 
-> _(Example: Replace this section with an actual screenshot or code block of your output)_
+   32      3801      45      123
++ 698    -    2    + 43    +  49
+-----    ------    ----    -----
 
 
 ---
